@@ -410,3 +410,8 @@ Below are the code files created by the people in the community. Before you star
 | Code | Supported Models | Controller |
 | ------------- | -------------------------- | ------------- |
 [2120](../codes/climate/2120.json)|MPAF13A0R5IAA|Broadlink
+
+#### Carson Portable ACU's
+| Code | Supported Models | Controller |
+| ------------- | -------------------------- | ------------- |
+[2140](../codes/climate/2140.json)|PA200 II Portable ACU (9348948047000)|Broadlink
